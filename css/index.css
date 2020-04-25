@@ -40,23 +40,20 @@ body {
  * Header
  */
 .masthead {
+  margin-top: 1rem;
   margin-bottom: 2rem;
+  padding: 0 1.5rem;
 }
-
+.masthead .blockquote .blockquote-footer {
+  color: #fff;
+}
 
 /*
  * Cover
  */
-.cover {
-  padding: 0 1.5rem;
-}
 .cover .cover-heading {
   font-family: 'Open Sans Condensed', sans-serif;
 }
-.cover .blockquote .blockquote-footer {
-  color: #fff;
-}
-
 
 /*
  * Footer
